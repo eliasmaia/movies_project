@@ -1,11 +1,19 @@
 # 🎬 Movies Wrapped 2025
 
-[🇺🇸 English](#english) | [🇧🇷 Português](#português)
+[<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" width="20"> English](#english) | [<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="20"> Português](#português)
+
+## 🖼️ Preview
+
+### Dashboard Overview
+![Hero and Metrics](assets/1.png)
+
+### Movie Journey
+![Movie Cards](assets/2.png)
 
 ---
 
 <a name="english"></a>
-## 🇺🇸 English
+## <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" width="25"> English
 
 **Movies Wrapped** is a data visualization project designed to analyze a personal movie journey. The core objective was to build a robust pipeline that transforms a simple CSV file into an enriched, interactive dashboard.
 
@@ -34,7 +42,7 @@
 ---
 
 <a name="português"></a>
-## 🇧🇷 Português
+## <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="25"> Português
 
 O **Movies Wrapped** é um projeto de visualização de dados focado na análise de uma jornada cinematográfica pessoal. O objetivo central foi construir um pipeline robusto que transforma um arquivo CSV simples em um dashboard rico e interativo.
 
