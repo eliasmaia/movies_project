@@ -71,6 +71,6 @@ class TMDBClient:
                 crew = response.json().get('crew', [])
                 directors = [m['name'] for m in crew if m['job'] == 'Director']
                 return ", ".join(directors) if directors else "Desconhecido"
-        except requests.Request.Exception:
+        except requests.RequestException:
              pass
         return "Desconhecido"
